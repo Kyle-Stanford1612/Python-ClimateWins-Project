@@ -18,7 +18,7 @@ ClimateWins is a European nonprofit organisation interested in using machine lea
 ## Data and Tools Used
 2 datasets were used for this project.
 
-  **1.** [European weather data from 18 weather stations between 1960 and 2022](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv). Collected by the European Climate Assessment & Data Set Project.
+  **1.** European weather data from 18 weather stations between 1960 and 2022. Collected by the [European Climate Assessment & Data Set Project.](https://www.ecad.eu/)
   
   **2.** Categorised weather answers - for training different machine learning models.
 
