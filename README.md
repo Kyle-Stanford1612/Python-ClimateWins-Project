@@ -2,8 +2,7 @@
 This repository contains my Python code for a student project I completed when studying with CareerFoundry. In this project, I used Python to create and train machine learning models to predict weather patterns for a fictional company called ClimateWins. The final presentation addresses if machine learning models could be effectively used to make predictions regarding the impacts of climate change, and future steps to ensure these models' success.
 
 ## Project Context:
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/b3bbdcff-b8f2-4f32-a193-de2ea3a712a9)
 
 
 ClimateWins is a European nonprofit organisation interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. Their first phase is to train machine learning models to predict picnic suitability, using existing data, and use the performance of different machine learning models to inform how machine learning can be used in their overall strategy.
