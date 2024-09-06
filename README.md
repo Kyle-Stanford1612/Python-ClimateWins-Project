@@ -10,14 +10,17 @@ ClimateWins is a European nonprofit organisation interested in using machine lea
 ## Key Question and Objectives:
 
 ● How is machine learning used? Is it applicable to weather data?
+
 ● ClimateWins has heard of ethical concerns surrounding machine learning and AI. Are there any concerns specific to this project?
+
 ● Can machine learning be used to predict whether weather conditions will be favorable on a certain day? (If so, it could also be possible to predict danger.)
 
 ## Data and Tools Used
 2 datasets were used for this project.
 
-  1. European weather data from 18 weather stations between 1960 and 2022. Collected by the European Climate Assessment & Data Set Project.
-  2. Categorised weather answers - for training different machine learning models.
+  **1.** European weather data from 18 weather stations between 1960 and 2022. Collected by the European Climate Assessment & Data Set Project.
+  
+  **2.** Categorised weather answers - for training different machine learning models.
 
 ## Folders
 Project files are stored using the following folder structure:
