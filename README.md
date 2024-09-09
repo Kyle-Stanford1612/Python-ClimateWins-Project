@@ -27,7 +27,9 @@ Project files are stored using the following folder structure:
 
 ● *01 Project Management*: Contains project brief.
 
-● *02 Data*: Contains the datasets listed above (including the European weather data in a scaled and unscaled formatted)
+● *02 Data*: Would normally contain the datasets listed above (including the European weather data in a scaled and unscaled formatted). However, the scaled data can't be uploaded due to size restraints and will thus be linked to here:
+
+  [Scaled Data Link Here](https://drive.google.com/file/d/1ZxivL_4YJchiMwBBqgPkMozy_DyEAogu/view?usp=sharing)
 
 ● *03 Scripts*: Contains Jupyter notebooks with all relevant code used throughout the project.
 
