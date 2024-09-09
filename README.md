@@ -36,3 +36,7 @@ Project files are stored using the following folder structure:
 ● *04 Analysis*: Contains 3 screenshots of graphed cost functions and parameters using gradient descent optimisation. This highlights the effect of using different total iterations and starting parameters
 
 ● *05 Sent to Client*: Contains the final presentation for ClimateWins. The presentation includes project results and recommendations to inform ClimateWins strategy moving forward.
+
+## Final Presentation
+
+The link to the final presentation can be accessed [here](https://www.youtube.com/watch?v=_zV70Jnw9x0&ab_channel=KyleStanford)
